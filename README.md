@@ -19,7 +19,9 @@ Os relatórios estão organizados em pastas, nomeadas de acordo com a disciplina
 
 | Disciplina / Projeto | Título do Relatório | Descrição Breve |
 | :--- | :--- | :--- |
-| **Design Profissional** | **Atividade II - Relatório de Análise Pesquisa do Mercado de Trabalho em TI** | Este relatório sintetiza uma pesquisa de mercado com 5 vagas de emprego, identificando as competências e tendências mais relevantes para profissionais de nível júnior em desenvolvimento web." |
+| **Design Profissional** | **Atividade II - RELATÓRIO DE ANÁLISE: PESQUISA DO MERCADO DE TRABALHO EM TI** | Este relatório sintetiza uma pesquisa de mercado com 5 vagas de emprego, identificando as competências e tendências mais relevantes para profissionais de nível júnior em desenvolvimento web. |
+| **Design Profissional** | **Atividade III - CHATBOT DE IA E O INCENTIVO AO SUICÍDIO** | Análise ética do caso de suicídio incentivado por IA na Bélgica. O relatório explora as falhas de governança e design, propondo regulamentação e um design ético como solução. |
+
 
 ---
 
